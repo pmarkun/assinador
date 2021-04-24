@@ -10,6 +10,6 @@ O sistema vai pedir o nome da pessoa e o texto da dedicatória e vai gerar um ar
 
 Pré-requisitos:
 
-	[ImageMagick](https://imagemagick.org/script/download.php#windows)
-	[PDFTk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_free-2.02-win-setup.exe)
+* [ImageMagick](https://imagemagick.org/script/download.php#windows)
+* [PDFTk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_free-2.02-win-setup.exe)
 
